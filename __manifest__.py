@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Sale decimal precision",
     
     'summary': "",
   
@@ -15,10 +15,10 @@
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['sale'],
     
     # always loaded
-    'data': [],
+    'data': ['data/decimal_precision.xml'],
 
     'application': False,
 }

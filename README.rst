@@ -1,19 +1,7 @@
-Title
+Sale decimal precision
 =======
 
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+Questo modulo introduce la precisione decimale relativa a ordini di vendita
 
 
 Credits
@@ -27,4 +15,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>
